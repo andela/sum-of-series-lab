@@ -1,7 +1,7 @@
 # Sum Of Series Lab
 + You are to create a function, *`SumOfSeries(arr)`* to take an array of numbers (series) as the only argument, and return the sum of the series if the to prototype function is called with the value n (where n will be the number of items in the series).
- + *For example:* if arr contains `[1, 3, 5, 7]` the output should be 100 when the to prototype function is called with 10.
- + The conditions for this lab are as follows:
++ *For example:* if arr contains `[1, 3, 5, 7]` the output should be 100 when the to prototype function is called with 10.
++ The conditions for this lab are as follows:
   + The series can be AP or GP
   + The series will contain a minimum of 3 numbers
   + The series may contain negative numbers or fractions.
